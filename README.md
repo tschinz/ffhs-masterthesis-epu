@@ -10,7 +10,11 @@
 
 ## Table of contents
 
-[Abstract](#abstract) • [Content](#content) • [Cite](#cite)
+<p align="center">
+  <a href="#abstract">Abstract</a> •
+  <a href="#content">Content</a> •
+  <a href="#cite">Cite</a>
+</p>
 
 This repository contains all thesis, documentation, code and data for the [Masterthesis Hardware Accelerated Edge Computing](https://github.com/tschinz/ffhs-masterthesis-epu).
 The main goal is to identify people at a certain location in order to stop industrial machinery for security reasons.
@@ -23,12 +27,30 @@ In the just mentioned cases, it is not practical to transfer the data to the clo
 
 A prototype system was presented in an industrial use case, where an automated industrial ma- chine is allowed to run, only when no human is nearby. We present an Edge Processing Unit (EPU) that monitors a selected region using a camera. The images are preprocessed in CPU and an object detection is performed in real time using a tiny You only look once (YOLO) v3 Machine Learning (ML) implemented in FPGA. A Convolutional Neural Network (CNN) hardware accelerator, performs the person detection. A MQTT broker, which also runs on the edge device, sends the results to the cloud and local Programmable Logic Controller (PLC). The entire sys- tem runs on a Xilinx PYNQ-Z1 board with a ZYNQ XC7Z020 System on Chip (SoC) that houses a dual core Arm A9 CPU and programmable Artix-7 logic. It achieves a higher frame rate and consumed less power than a comparable non-hardware accelerated edge device. The amount of data transferred was drastically reduced, compared to a cloud application.
 
+## Content
+
+├───code              # all program files
+│   ├───config        # platform configuration files
+│   │   ├───pc        # pc version configuration files
+│   │   └───pynq      # pynq version configuration files
+│   ├───docs          # code documentation
+│   ├───notebooks     # jupyter notebooks used for result analysis an test
+│   ├───output        # jupyter notebooks output files
+│   │   ├───plot      # 
+│   │   └───timelogs  #
+│   ├───scripts       # bash scripts for installation purposes
+│   └───src           # program source files
+│       ├───streamlit # files for streamlit client application
+│       └───yolo      # files for epu application
+├───doc               # Thesis pdf
+└───img               # project images
+
 ## Keywords
-https://img.shields.io/badge/-EPU-red, https://img.shields.io/badge/-Edge_Computing-red, https://img.shields.io/badge/-Industrial_Edge_Computing-red, https://img.shields.io/badge/-Cloud_Computing-red, https://img.shields.io/badge/-ML-red, https://img.shields.io/badge/-Image_Analysis-red, https://img.shields.io/badge/-Hardware_Accelerator-red, https://img.shields.io/badge/-FPGA-red, https://img.shields.io/badge/-Python_for_Zynq_(PYNQ)-red, https://img.shields.io/badge/-MQTT-red, https://img.shields.io/badge/-SoC-red
+![EPU](https://img.shields.io/badge/-EPU-red) ![Edge_Computing](https://img.shields.io/badge/-Edge_Computing-red) ![Industrial_Edge_Computing](https://img.shields.io/badge/-Industrial_Edge_Computing-red) ![Cloud_Computing](https://img.shields.io/badge/-Cloud_Computing-red) ![ML](https://img.shields.io/badge/-ML-red) ![Image_Analysis](https://img.shields.io/badge/-Image_Analysis-red) ![Hardware_Accelerator](https://img.shields.io/badge/-Hardware_Accelerator-red) ![FPGA](https://img.shields.io/badge/-FPGA-red) ![Python_for_Zynq_(PYNQ)](https://img.shields.io/badge/-Python_for_Zynq_(PYNQ)-red) ![MQTT](https://img.shields.io/badge/-MQTT-red) ![SoC](https://img.shields.io/badge/-SoC-red)
 
 ## Cite
 
-```bash
+```latex
 @thesis{EPU,
     title = {{EPU}: Edge Processing Unit},
     author = {Zahno, Silvan},
