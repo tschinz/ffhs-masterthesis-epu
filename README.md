@@ -29,6 +29,7 @@ A prototype system was presented in an industrial use case, where an automated i
 
 ## Content
 
+```
 ├───code              # all program files
 │   ├───config        # platform configuration files
 │   │   ├───pc        # pc version configuration files
@@ -44,6 +45,7 @@ A prototype system was presented in an industrial use case, where an automated i
 │       └───yolo      # files for epu application
 ├───doc               # Thesis pdf
 └───img               # project images
+```
 
 ## Keywords
 ![EPU](https://img.shields.io/badge/-EPU-red) ![Edge_Computing](https://img.shields.io/badge/-Edge_Computing-red) ![Industrial_Edge_Computing](https://img.shields.io/badge/-Industrial_Edge_Computing-red) ![Cloud_Computing](https://img.shields.io/badge/-Cloud_Computing-red) ![ML](https://img.shields.io/badge/-ML-red) ![Image_Analysis](https://img.shields.io/badge/-Image_Analysis-red) ![Hardware_Accelerator](https://img.shields.io/badge/-Hardware_Accelerator-red) ![FPGA](https://img.shields.io/badge/-FPGA-red) ![Python_for_Zynq_(PYNQ)](https://img.shields.io/badge/-Python_for_Zynq_(PYNQ)-red) ![MQTT](https://img.shields.io/badge/-MQTT-red) ![SoC](https://img.shields.io/badge/-SoC-red)
