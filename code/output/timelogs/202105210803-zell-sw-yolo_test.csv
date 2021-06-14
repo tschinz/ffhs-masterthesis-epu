@@ -1,0 +1,337 @@
+index,type,time,text
+0,0,2021-05-21 08:03:52.310194,setup yolo begin
+0,0,2021-05-21 08:03:52.350984,setup yolo end
+0,1,0:00:00.040790,Setup YOLO
+0,0,2021-05-21 08:03:52.977713,load image begin
+0,0,2021-05-21 08:03:53.217204,load image end
+0,1,0:00:00.239491,Image Loading
+0,0,2021-05-21 08:03:53.223175,yolo sw conv layers begin
+0,0,2021-05-21 08:03:53.234193,yolo sw conv layers end
+0,1,0:00:00.011018,Apply YOLO SW Conv Layers
+0,0,2021-05-21 08:03:53.238173,darknet detection begin
+0,0,2021-05-21 08:03:53.242174,darknet detection begin
+0,1,0:00:00.004001,Draw Detection Boxes
+1,0,2021-05-21 08:03:54.622392,load image begin
+1,0,2021-05-21 08:03:54.658778,load image end
+1,1,0:00:00.036386,Image Loading
+1,0,2021-05-21 08:03:54.666813,yolo sw conv layers begin
+1,0,2021-05-21 08:03:54.676777,yolo sw conv layers end
+1,1,0:00:00.009964,Apply YOLO SW Conv Layers
+1,0,2021-05-21 08:03:54.682822,darknet detection begin
+1,0,2021-05-21 08:03:54.685779,darknet detection begin
+1,1,0:00:00.002957,Draw Detection Boxes
+2,0,2021-05-21 08:03:56.028106,load image begin
+2,0,2021-05-21 08:03:56.079167,load image end
+2,1,0:00:00.051061,Image Loading
+2,0,2021-05-21 08:03:56.088140,yolo sw conv layers begin
+2,0,2021-05-21 08:03:56.104183,yolo sw conv layers end
+2,1,0:00:00.016043,Apply YOLO SW Conv Layers
+2,0,2021-05-21 08:03:56.112155,darknet detection begin
+2,0,2021-05-21 08:03:56.118106,darknet detection begin
+2,1,0:00:00.005951,Draw Detection Boxes
+3,0,2021-05-21 08:03:57.502308,load image begin
+3,0,2021-05-21 08:03:57.540290,load image end
+3,1,0:00:00.037982,Image Loading
+3,0,2021-05-21 08:03:57.546289,yolo sw conv layers begin
+3,0,2021-05-21 08:03:57.557287,yolo sw conv layers end
+3,1,0:00:00.010998,Apply YOLO SW Conv Layers
+3,0,2021-05-21 08:03:57.562286,darknet detection begin
+3,0,2021-05-21 08:03:57.566240,darknet detection begin
+3,1,0:00:00.003954,Draw Detection Boxes
+4,0,2021-05-21 08:03:58.912778,load image begin
+4,0,2021-05-21 08:03:58.966820,load image end
+4,1,0:00:00.054042,Image Loading
+4,0,2021-05-21 08:03:58.977748,yolo sw conv layers begin
+4,0,2021-05-21 08:03:58.987789,yolo sw conv layers end
+4,1,0:00:00.010041,Apply YOLO SW Conv Layers
+4,0,2021-05-21 08:03:58.992791,darknet detection begin
+4,0,2021-05-21 08:03:58.996802,darknet detection begin
+4,1,0:00:00.004011,Draw Detection Boxes
+5,0,2021-05-21 08:04:00.359684,load image begin
+5,0,2021-05-21 08:04:00.407725,load image end
+5,1,0:00:00.048041,Image Loading
+5,0,2021-05-21 08:04:00.414705,yolo sw conv layers begin
+5,0,2021-05-21 08:04:00.424696,yolo sw conv layers end
+5,1,0:00:00.009991,Apply YOLO SW Conv Layers
+5,0,2021-05-21 08:04:00.429684,darknet detection begin
+5,0,2021-05-21 08:04:00.433684,darknet detection begin
+5,1,0:00:00.004000,Draw Detection Boxes
+6,0,2021-05-21 08:04:01.878408,load image begin
+6,0,2021-05-21 08:04:01.926425,load image end
+6,1,0:00:00.048017,Image Loading
+6,0,2021-05-21 08:04:01.934406,yolo sw conv layers begin
+6,0,2021-05-21 08:04:01.952455,yolo sw conv layers end
+6,1,0:00:00.018049,Apply YOLO SW Conv Layers
+6,0,2021-05-21 08:04:01.959406,darknet detection begin
+6,0,2021-05-21 08:04:01.964409,darknet detection begin
+6,1,0:00:00.005003,Draw Detection Boxes
+7,0,2021-05-21 08:04:03.350648,load image begin
+7,0,2021-05-21 08:04:03.396655,load image end
+7,1,0:00:00.046007,Image Loading
+7,0,2021-05-21 08:04:03.405646,yolo sw conv layers begin
+7,0,2021-05-21 08:04:03.418646,yolo sw conv layers end
+7,1,0:00:00.013000,Apply YOLO SW Conv Layers
+7,0,2021-05-21 08:04:03.422648,darknet detection begin
+7,0,2021-05-21 08:04:03.426648,darknet detection begin
+7,1,0:00:00.004000,Draw Detection Boxes
+8,0,2021-05-21 08:04:04.787559,load image begin
+8,0,2021-05-21 08:04:04.824328,load image end
+8,1,0:00:00.036769,Image Loading
+8,0,2021-05-21 08:04:04.829328,yolo sw conv layers begin
+8,0,2021-05-21 08:04:04.840279,yolo sw conv layers end
+8,1,0:00:00.010951,Apply YOLO SW Conv Layers
+8,0,2021-05-21 08:04:04.845281,darknet detection begin
+8,0,2021-05-21 08:04:04.849313,darknet detection begin
+8,1,0:00:00.004032,Draw Detection Boxes
+9,0,2021-05-21 08:04:06.195293,load image begin
+9,0,2021-05-21 08:04:06.235333,load image end
+9,1,0:00:00.040040,Image Loading
+9,0,2021-05-21 08:04:06.241404,yolo sw conv layers begin
+9,0,2021-05-21 08:04:06.253294,yolo sw conv layers end
+9,1,0:00:00.011890,Apply YOLO SW Conv Layers
+9,0,2021-05-21 08:04:06.259292,darknet detection begin
+9,0,2021-05-21 08:04:06.264296,darknet detection begin
+9,1,0:00:00.005004,Draw Detection Boxes
+10,0,2021-05-21 08:04:07.618773,load image begin
+10,0,2021-05-21 08:04:07.661773,load image end
+10,1,0:00:00.043000,Image Loading
+10,0,2021-05-21 08:04:07.669788,yolo sw conv layers begin
+10,0,2021-05-21 08:04:07.683773,yolo sw conv layers end
+10,1,0:00:00.013985,Apply YOLO SW Conv Layers
+10,0,2021-05-21 08:04:07.692774,darknet detection begin
+10,0,2021-05-21 08:04:07.696799,darknet detection begin
+10,1,0:00:00.004025,Draw Detection Boxes
+11,0,2021-05-21 08:04:09.073925,load image begin
+11,0,2021-05-21 08:04:09.125515,load image end
+11,1,0:00:00.051590,Image Loading
+11,0,2021-05-21 08:04:09.132458,yolo sw conv layers begin
+11,0,2021-05-21 08:04:09.144492,yolo sw conv layers end
+11,1,0:00:00.012034,Apply YOLO SW Conv Layers
+11,0,2021-05-21 08:04:09.150460,darknet detection begin
+11,0,2021-05-21 08:04:09.154458,darknet detection begin
+11,1,0:00:00.003998,Draw Detection Boxes
+12,0,2021-05-21 08:04:10.524275,load image begin
+12,0,2021-05-21 08:04:10.574302,load image end
+12,1,0:00:00.050027,Image Loading
+12,0,2021-05-21 08:04:10.583334,yolo sw conv layers begin
+12,0,2021-05-21 08:04:10.599276,yolo sw conv layers end
+12,1,0:00:00.015942,Apply YOLO SW Conv Layers
+12,0,2021-05-21 08:04:10.606406,darknet detection begin
+12,0,2021-05-21 08:04:10.610602,darknet detection begin
+12,1,0:00:00.004196,Draw Detection Boxes
+13,0,2021-05-21 08:04:12.027581,load image begin
+13,0,2021-05-21 08:04:12.071603,load image end
+13,1,0:00:00.044022,Image Loading
+13,0,2021-05-21 08:04:12.077607,yolo sw conv layers begin
+13,0,2021-05-21 08:04:12.090559,yolo sw conv layers end
+13,1,0:00:00.012952,Apply YOLO SW Conv Layers
+13,0,2021-05-21 08:04:12.096593,darknet detection begin
+13,0,2021-05-21 08:04:12.101558,darknet detection begin
+13,1,0:00:00.004965,Draw Detection Boxes
+14,0,2021-05-21 08:04:13.537218,load image begin
+14,0,2021-05-21 08:04:13.581227,load image end
+14,1,0:00:00.044009,Image Loading
+14,0,2021-05-21 08:04:13.589262,yolo sw conv layers begin
+14,0,2021-05-21 08:04:13.607260,yolo sw conv layers end
+14,1,0:00:00.017998,Apply YOLO SW Conv Layers
+14,0,2021-05-21 08:04:13.616280,darknet detection begin
+14,0,2021-05-21 08:04:13.621263,darknet detection begin
+14,1,0:00:00.004983,Draw Detection Boxes
+15,0,2021-05-21 08:04:14.956731,load image begin
+15,0,2021-05-21 08:04:14.995863,load image end
+15,1,0:00:00.039132,Image Loading
+15,0,2021-05-21 08:04:15.007804,yolo sw conv layers begin
+15,0,2021-05-21 08:04:15.018806,yolo sw conv layers end
+15,1,0:00:00.011002,Apply YOLO SW Conv Layers
+15,0,2021-05-21 08:04:15.024805,darknet detection begin
+15,0,2021-05-21 08:04:15.028802,darknet detection begin
+15,1,0:00:00.003997,Draw Detection Boxes
+16,0,2021-05-21 08:04:16.368494,load image begin
+16,0,2021-05-21 08:04:16.408544,load image end
+16,1,0:00:00.040050,Image Loading
+16,0,2021-05-21 08:04:16.417494,yolo sw conv layers begin
+16,0,2021-05-21 08:04:16.429496,yolo sw conv layers end
+16,1,0:00:00.012002,Apply YOLO SW Conv Layers
+16,0,2021-05-21 08:04:16.436748,darknet detection begin
+16,0,2021-05-21 08:04:16.440112,darknet detection begin
+16,1,0:00:00.003364,Draw Detection Boxes
+17,0,2021-05-21 08:04:17.780187,load image begin
+17,0,2021-05-21 08:04:17.817197,load image end
+17,1,0:00:00.037010,Image Loading
+17,0,2021-05-21 08:04:17.823188,yolo sw conv layers begin
+17,0,2021-05-21 08:04:17.837202,yolo sw conv layers end
+17,1,0:00:00.014014,Apply YOLO SW Conv Layers
+17,0,2021-05-21 08:04:17.851187,darknet detection begin
+17,0,2021-05-21 08:04:17.854190,darknet detection begin
+17,1,0:00:00.003003,Draw Detection Boxes
+18,0,2021-05-21 08:04:19.287231,load image begin
+18,0,2021-05-21 08:04:19.323308,load image end
+18,1,0:00:00.036077,Image Loading
+18,0,2021-05-21 08:04:19.332271,yolo sw conv layers begin
+18,0,2021-05-21 08:04:19.344283,yolo sw conv layers end
+18,1,0:00:00.012012,Apply YOLO SW Conv Layers
+18,0,2021-05-21 08:04:19.349270,darknet detection begin
+18,0,2021-05-21 08:04:19.354271,darknet detection begin
+18,1,0:00:00.005001,Draw Detection Boxes
+19,0,2021-05-21 08:04:20.720737,load image begin
+19,0,2021-05-21 08:04:20.759741,load image end
+19,1,0:00:00.039004,Image Loading
+19,0,2021-05-21 08:04:20.765963,yolo sw conv layers begin
+19,0,2021-05-21 08:04:20.775452,yolo sw conv layers end
+19,1,0:00:00.009489,Apply YOLO SW Conv Layers
+19,0,2021-05-21 08:04:20.780453,darknet detection begin
+19,0,2021-05-21 08:04:20.784454,darknet detection begin
+19,1,0:00:00.004001,Draw Detection Boxes
+20,0,2021-05-21 08:04:22.204407,load image begin
+20,0,2021-05-21 08:04:22.242465,load image end
+20,1,0:00:00.038058,Image Loading
+20,0,2021-05-21 08:04:22.254410,yolo sw conv layers begin
+20,0,2021-05-21 08:04:22.264934,yolo sw conv layers end
+20,1,0:00:00.010524,Apply YOLO SW Conv Layers
+20,0,2021-05-21 08:04:22.268973,darknet detection begin
+20,0,2021-05-21 08:04:22.271974,darknet detection begin
+20,1,0:00:00.003001,Draw Detection Boxes
+21,0,2021-05-21 08:04:23.625269,load image begin
+21,0,2021-05-21 08:04:23.662308,load image end
+21,1,0:00:00.037039,Image Loading
+21,0,2021-05-21 08:04:23.671269,yolo sw conv layers begin
+21,0,2021-05-21 08:04:23.682283,yolo sw conv layers end
+21,1,0:00:00.011014,Apply YOLO SW Conv Layers
+21,0,2021-05-21 08:04:23.687286,darknet detection begin
+21,0,2021-05-21 08:04:23.691269,darknet detection begin
+21,1,0:00:00.003983,Draw Detection Boxes
+22,0,2021-05-21 08:04:25.060129,load image begin
+22,0,2021-05-21 08:04:25.095192,load image end
+22,1,0:00:00.035063,Image Loading
+22,0,2021-05-21 08:04:25.104131,yolo sw conv layers begin
+22,0,2021-05-21 08:04:25.114175,yolo sw conv layers end
+22,1,0:00:00.010044,Apply YOLO SW Conv Layers
+22,0,2021-05-21 08:04:25.118760,darknet detection begin
+22,0,2021-05-21 08:04:25.122936,darknet detection begin
+22,1,0:00:00.004176,Draw Detection Boxes
+23,0,2021-05-21 08:04:26.460005,load image begin
+23,0,2021-05-21 08:04:26.496004,load image end
+23,1,0:00:00.035999,Image Loading
+23,0,2021-05-21 08:04:26.507015,yolo sw conv layers begin
+23,0,2021-05-21 08:04:26.517017,yolo sw conv layers end
+23,1,0:00:00.010002,Apply YOLO SW Conv Layers
+23,0,2021-05-21 08:04:26.521004,darknet detection begin
+23,0,2021-05-21 08:04:26.525004,darknet detection begin
+23,1,0:00:00.004000,Draw Detection Boxes
+24,0,2021-05-21 08:04:27.972353,load image begin
+24,0,2021-05-21 08:04:28.006351,load image end
+24,1,0:00:00.033998,Image Loading
+24,0,2021-05-21 08:04:28.012395,yolo sw conv layers begin
+24,0,2021-05-21 08:04:28.022367,yolo sw conv layers end
+24,1,0:00:00.009972,Apply YOLO SW Conv Layers
+24,0,2021-05-21 08:04:28.027352,darknet detection begin
+24,0,2021-05-21 08:04:28.031352,darknet detection begin
+24,1,0:00:00.004000,Draw Detection Boxes
+25,0,2021-05-21 08:04:29.376232,load image begin
+25,0,2021-05-21 08:04:29.409213,load image end
+25,1,0:00:00.032981,Image Loading
+25,0,2021-05-21 08:04:29.418213,yolo sw conv layers begin
+25,0,2021-05-21 08:04:29.429980,yolo sw conv layers end
+25,1,0:00:00.011767,Apply YOLO SW Conv Layers
+25,0,2021-05-21 08:04:29.434277,darknet detection begin
+25,0,2021-05-21 08:04:29.438287,darknet detection begin
+25,1,0:00:00.004010,Draw Detection Boxes
+26,0,2021-05-21 08:04:30.870489,load image begin
+26,0,2021-05-21 08:04:30.906508,load image end
+26,1,0:00:00.036019,Image Loading
+26,0,2021-05-21 08:04:30.920491,yolo sw conv layers begin
+26,0,2021-05-21 08:04:30.930488,yolo sw conv layers end
+26,1,0:00:00.009997,Apply YOLO SW Conv Layers
+26,0,2021-05-21 08:04:30.935491,darknet detection begin
+26,0,2021-05-21 08:04:30.938490,darknet detection begin
+26,1,0:00:00.002999,Draw Detection Boxes
+27,0,2021-05-21 08:04:32.298979,load image begin
+27,0,2021-05-21 08:04:32.334955,load image end
+27,1,0:00:00.035976,Image Loading
+27,0,2021-05-21 08:04:32.345905,yolo sw conv layers begin
+27,0,2021-05-21 08:04:32.357905,yolo sw conv layers end
+27,1,0:00:00.012000,Apply YOLO SW Conv Layers
+27,0,2021-05-21 08:04:32.364906,darknet detection begin
+27,0,2021-05-21 08:04:32.368905,darknet detection begin
+27,1,0:00:00.003999,Draw Detection Boxes
+28,0,2021-05-21 08:04:33.709296,load image begin
+28,0,2021-05-21 08:04:33.755638,load image end
+28,1,0:00:00.046342,Image Loading
+28,0,2021-05-21 08:04:33.762597,yolo sw conv layers begin
+28,0,2021-05-21 08:04:33.775598,yolo sw conv layers end
+28,1,0:00:00.013001,Apply YOLO SW Conv Layers
+28,0,2021-05-21 08:04:33.780600,darknet detection begin
+28,0,2021-05-21 08:04:33.787600,darknet detection begin
+28,1,0:00:00.007000,Draw Detection Boxes
+29,0,2021-05-21 08:04:35.140231,load image begin
+29,0,2021-05-21 08:04:35.180234,load image end
+29,1,0:00:00.040003,Image Loading
+29,0,2021-05-21 08:04:35.188235,yolo sw conv layers begin
+29,0,2021-05-21 08:04:35.198248,yolo sw conv layers end
+29,1,0:00:00.010013,Apply YOLO SW Conv Layers
+29,0,2021-05-21 08:04:35.202233,darknet detection begin
+29,0,2021-05-21 08:04:35.206234,darknet detection begin
+29,1,0:00:00.004001,Draw Detection Boxes
+30,0,2021-05-21 08:04:36.563824,load image begin
+30,0,2021-05-21 08:04:36.598826,load image end
+30,1,0:00:00.035002,Image Loading
+30,0,2021-05-21 08:04:36.609871,yolo sw conv layers begin
+30,0,2021-05-21 08:04:36.621837,yolo sw conv layers end
+30,1,0:00:00.011966,Apply YOLO SW Conv Layers
+30,0,2021-05-21 08:04:36.625840,darknet detection begin
+30,0,2021-05-21 08:04:36.629823,darknet detection begin
+30,1,0:00:00.003983,Draw Detection Boxes
+31,0,2021-05-21 08:04:37.997417,load image begin
+31,0,2021-05-21 08:04:38.038488,load image end
+31,1,0:00:00.041071,Image Loading
+31,0,2021-05-21 08:04:38.045416,yolo sw conv layers begin
+31,0,2021-05-21 08:04:38.056439,yolo sw conv layers end
+31,1,0:00:00.011023,Apply YOLO SW Conv Layers
+31,0,2021-05-21 08:04:38.062416,darknet detection begin
+31,0,2021-05-21 08:04:38.066626,darknet detection begin
+31,1,0:00:00.004210,Draw Detection Boxes
+32,0,2021-05-21 08:04:39.410173,load image begin
+32,0,2021-05-21 08:04:39.450176,load image end
+32,1,0:00:00.040003,Image Loading
+32,0,2021-05-21 08:04:39.464175,yolo sw conv layers begin
+32,0,2021-05-21 08:04:39.479244,yolo sw conv layers end
+32,1,0:00:00.015069,Apply YOLO SW Conv Layers
+32,0,2021-05-21 08:04:39.486175,darknet detection begin
+32,0,2021-05-21 08:04:39.489172,darknet detection begin
+32,1,0:00:00.002997,Draw Detection Boxes
+33,0,2021-05-21 08:04:40.845017,load image begin
+33,0,2021-05-21 08:04:40.885896,load image end
+33,1,0:00:00.040879,Image Loading
+33,0,2021-05-21 08:04:40.896898,yolo sw conv layers begin
+33,0,2021-05-21 08:04:40.906897,yolo sw conv layers end
+33,1,0:00:00.009999,Apply YOLO SW Conv Layers
+33,0,2021-05-21 08:04:40.912894,darknet detection begin
+33,0,2021-05-21 08:04:40.916897,darknet detection begin
+33,1,0:00:00.004003,Draw Detection Boxes
+34,0,2021-05-21 08:04:42.348192,load image begin
+34,0,2021-05-21 08:04:42.390143,load image end
+34,1,0:00:00.041951,Image Loading
+34,0,2021-05-21 08:04:42.399763,yolo sw conv layers begin
+34,0,2021-05-21 08:04:42.409776,yolo sw conv layers end
+34,1,0:00:00.010013,Apply YOLO SW Conv Layers
+34,0,2021-05-21 08:04:42.414761,darknet detection begin
+34,0,2021-05-21 08:04:42.418763,darknet detection begin
+34,1,0:00:00.004002,Draw Detection Boxes
+35,0,2021-05-21 08:04:43.850715,load image begin
+35,0,2021-05-21 08:04:43.903423,load image end
+35,1,0:00:00.052708,Image Loading
+35,0,2021-05-21 08:04:43.911501,yolo sw conv layers begin
+35,0,2021-05-21 08:04:43.924158,yolo sw conv layers end
+35,1,0:00:00.012657,Apply YOLO SW Conv Layers
+35,0,2021-05-21 08:04:43.929154,darknet detection begin
+35,0,2021-05-21 08:04:43.933155,darknet detection begin
+35,1,0:00:00.004001,Draw Detection Boxes
+36,0,2021-05-21 08:04:45.370531,load image begin
+36,0,2021-05-21 08:04:45.419532,load image end
+36,1,0:00:00.049001,Image Loading
+36,0,2021-05-21 08:04:45.427075,yolo sw conv layers begin
+36,0,2021-05-21 08:04:45.437932,yolo sw conv layers end
+36,1,0:00:00.010857,Apply YOLO SW Conv Layers
+36,0,2021-05-21 08:04:45.441931,darknet detection begin
+36,0,2021-05-21 08:04:45.445932,darknet detection begin
+36,1,0:00:00.004001,Draw Detection Boxes

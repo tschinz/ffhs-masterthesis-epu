@@ -1,0 +1,25 @@
+[flake8]
+max-line-length = 200
+ignore =
+  #E111 & E114: indentation not multiple of 4
+  E111
+  E114
+
+  #E501: Line too long
+  #E501
+
+  #E722 do not use bare 'except'
+  E722
+
+  #W504 line break after binary operator (one has to disable one of the W503/W504 pair)
+  W504
+
+  #W391 blank line at end of file
+  W391
+
+  #F401 Unused import (problems when using jupyter %run stuff)
+  F401
+
+  #F821 Undefined name (problems when using jupyter %run stuff)
+  F821
+

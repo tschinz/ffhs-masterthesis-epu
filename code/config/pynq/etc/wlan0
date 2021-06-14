@@ -1,0 +1,4 @@
+iface wlan0 inet dhcp
+ wpa-ssid UnknownWPA3-2.4G
+ wpa-psk 9459b0ae1f87f7bef4c977f1be371c7e44d6257a2b03f29b13b38426b0252cf2
+
