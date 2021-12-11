@@ -21,7 +21,7 @@ The main goal is to identify people at a certain location in order to stop indus
 
 ## Abstract
 
-Edge computing has proven to be very valuable and is often needed in addition to cloud com- puting. Especially in areas such as image and video processing, where large amount of data is generated that cannot be transferred in their entirety to the cloud for processing, or in areas where security and real-time behavior are essential.
+Edge computing has proven to be very valuable and is often needed in addition to cloud computing. Especially in areas such as image and video processing, where large amount of data is generated that cannot be transferred in their entirety to the cloud for processing, or in areas where security and real-time behavior are essential.
 
 In the just mentioned cases, it is not practical to transfer the data to the cloud for processing and return the result to the device. Edge computers can be very powerful, but also high maintenance and power hungry, depending on the algorithm and hardware. In this work, a Proof of concept (POC) is presented to combine low-cost and low-power Central Processing Unit (CPU) with Field Programmable Gate Array (FPGA) to run an algorithm as optimized as possible. The simplicity of the CPU programming and the modular and parallel nature of the FPGA creates very powerful hardware, that can handle many different problems.
 
@@ -34,7 +34,7 @@ A prototype system was presented in an industrial use case, where an automated i
 │   ├───config        # platform configuration files
 │   │   ├───pc        # pc version configuration files
 │   │   └───pynq      # pynq version configuration files
-│   ├───docs          # code documentation
+│   ├───docs          # documentation, poster and presentation
 │   ├───notebooks     # jupyter notebooks used for result analysis an test
 │   ├───output        # jupyter notebooks output files
 │   │   ├───plot      # 

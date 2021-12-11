@@ -4,7 +4,7 @@
 
 Confidentiality
 ---------------
-All information in this document is strictly confidiential.
+All information in this document is strictly confidential.
 Copyright (C) 2021 FFHS - All Rights Reserved
 """
 ###############################################################################
