@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-[![Read Thesis](https://img.shields.io/badge/Read-Thesis-blue)](https://github.com/tschinz/ffhs-masterthesis-epu/blob/master/doc/ffhs-mas-ind4_0-silvan_zahno-thesis.pdf) [![Download Thesis](https://img.shields.io/badge/Download-Thesis-brightgreen)](https://github.com/tschinz/ffhs-masterthesis-epu/raw/master/doc/ffhs-mas-ind4_0-silvan_zahno-thesis-print.pdf)
+[![Read Thesis](https://img.shields.io/badge/Read-Thesis-blue)](https://github.com/tschinz/ffhs-masterthesis-epu/blob/master/doc/ffhs-mas-ind4_0-silvan_zahno-thesis.pdf) [![Download Thesis](https://img.shields.io/badge/Download-Thesis-brightgreen)](https://github.com/tschinz/ffhs-masterthesis-epu/raw/master/doc/ffhs-mas-ind4_0-silvan_zahno-thesis.pdf)
 
 ## Table of contents
 
